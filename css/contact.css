@@ -1,0 +1,307 @@
+.main {
+    padding-right: 0;
+    padding-left: 0;
+    margin-right: auto;
+    margin-left: auto
+}
+
+.cont-1 {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+#img-1 {
+    height: 400px;
+    object-fit: cover;
+    width: 100%;
+    filter: brightness(0.7);
+    opacity: 0.85;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    position: absolute;
+}
+
+.containernav {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+.navbar ul li a {
+    color: #ffffff;
+}
+
+.navbar ul li a:hover {
+    color: #D6BCB5;
+}
+
+.dropdown-item {
+    color: black !important;
+}
+
+.containernav a img {
+    margin-left: 40px;
+}
+
+.contus-btn {
+    border: 2px solid #ffffff !important;
+    padding: 0px 20px 0px 20px !important;
+    color: #ffffff !important;
+    text-align: center !important;
+    font-family: Cormorant Garamond !important;
+    margin-top: 140px;
+    font-size: 50px !important;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+.para-1 {
+    margin-top: 140px;
+    text-transform: capitalize;
+    font-size: 25px;
+    color: #D6BCB5;
+    font-weight: 600;
+    font-style: italic;
+    font-family: playfair display;
+    margin-bottom: 40px;
+}
+
+.logo1 {
+    padding-top: 10px;
+    color: #D6BCB5;
+    border: 1px solid rgba(97, 160, 160, 0.2);
+    ;
+    border-right: 4px solid #D6BCB5;
+    font-weight: 600;
+}
+
+.logo2 {
+    border: 1px solid rgba(97, 160, 160, 0.2);
+    ;
+    border-right: 4px solid #D6BCB5;
+    color: #D6BCB5;
+    font-weight: 600;
+    padding-top: 10px;
+}
+
+.logo3 {
+    padding-top: 10px;
+    color: #D6BCB5;
+    font-weight: 600;
+    border: 1px solid rgba(97, 160, 160, 0.2);
+    ;
+}
+
+.phone {
+    margin-top: 20px;
+    color: #D6BCB5;
+    margin-bottom: 5px;
+}
+
+.email {
+    margin-top: 20px;
+    color: #D6BCB5;
+    margin-bottom: 5px;
+}
+
+.address {
+    margin-top: 20px;
+    color: #D6BCB5;
+    margin-bottom: 5px;
+}
+
+#logoid {
+    text-decoration: none;
+    color: #D6BCB5;
+}
+
+.cont-para {
+    color: black !important;
+    font-size: 13px;
+    font-weight: normal !important;
+    margin-top: 10px;
+}
+
+.queries {
+    text-align: center;
+    margin-top: 80px;
+    text-transform: uppercase;
+    font-size: 23px;
+    font-family: playfair display;
+    margin-bottom: 50px;
+}
+
+#InputName {
+    margin-bottom: 20px;
+    background-color: rgba(97, 160, 160, 0.2);
+}
+
+#msg {
+    height: 100px;
+    margin-top: 20px;
+    background-color: rgba(97, 160, 160, 0.2);
+}
+
+#inputEmail3 {
+    background-color: rgba(97, 160, 160, 0.2);
+}
+
+.cont-btn {
+    background-color: #D6BCB5 !important;
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+
+.rating {
+    border: 10px groove rgba(97, 160, 160, 0.2);
+    padding: 20px 20px 20px 20px;
+    margin-bottom: 50px;
+}
+
+.rate {
+    font-family: playfair display;
+    text-transform: capitalize;
+    font-size: 20px;
+}
+
+.rate-head {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+    font-size: 30px !important;
+}
+
+#sub {
+    border: 1px solid #D6BCB5 !important;
+    margin-top: 20px !important;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+    font-size: 17px !important;
+    text-transform: capitalize !important;
+    font-family: playfair display !important;
+    border-radius: 20px;
+}
+
+#sub:hover {
+    color: #D6BCB5 !important;
+}
+
+hr {
+    border: 2px solid #D6BCB5 !important;
+    margin-bottom: 70px !important;
+}
+
+.footer {
+    margin-top: 30px;
+    background-color: rgba(97, 160, 160, 0.95);
+    width: 100%;
+    object-fit: cover;
+    position: absolute;
+    left: 0;
+}
+
+.tz34 h4 {
+    margin-top: 20px;
+    color: #ffffff !important;
+    font-family: Cormorant Garamond;
+    text-transform: capitalize;
+    font-size: 23px !important;
+}
+
+.vac-para1 {
+    color: #ffffff;
+    font-family: Cormorant Garamond;
+    font-size: 19px;
+    text-transform: capitalize;
+    line-height: 22px;
+}
+
+
+.quicklink p a {
+    text-decoration: none;
+}
+
+.quicklink p {
+    font-size: 20px;
+}
+
+.quicklink {
+    font-family: Cormorant Garamond;
+    color: #ffffff;
+}
+
+.copy {
+    color: #ffffff;
+}
+
+.copy a {
+    color: #ffffff;
+}
+
+.copy a:hover {
+    color: #D6BCB5;
+}
+
+.ticker-wrap {
+    font-family: Cormorant Garamond;
+    overflow: hidden;
+    position: relative;
+    /* background-color: rgba(214, 188, 181, 0.75); */
+    color: #ffffff;
+    background: transparent;
+    height: 60px;
+}
+
+.ticker-wrap .ticker-move {
+    width: 770px;
+    position: absolute;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    animation: ticker-scroll 10s linear infinite;
+}
+
+.ticker-wrap .ticker-move li {
+    display: inline-block;
+    padding: 0 20px;
+    font-size: 20px;
+}
+
+@keyframes ticker-scroll {
+    0% {
+        transform: translateX(150%);
+    }
+
+    100% {
+        transform: translateX(-100%);
+    }
+}
+
+#feat {
+    text-decoration: none;
+    font-family: playfair display;
+    text-transform: capitalize;
+    font-size: 30px !important;
+    color: #ffffff;
+}
+
+#feat:hover {
+    color: #D6BCB5;
+}
+
+.connect {
+    text-align: center !important;
+    margin-bottom: -30px;
+    margin-top: 50px !important;
+    color: black !important;
+}
+
+.star-rating {
+    margin-top: 10px;
+    font-size: 30px;
+    color: #ddd !important;
+}
+
+.star-rating .fa-star:hover,
+.star-rating .fa-star.active {
+    color: #D6BCB5 !important;
+}

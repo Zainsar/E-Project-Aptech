@@ -1,0 +1,127 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-right: 0;
+    padding-left: 0;
+    margin-right: auto;
+    margin-left: auto
+}
+
+.cont-1 {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+#img-2 {
+    height: 1150px;
+    object-fit: cover;
+    width: 100%;
+    filter: brightness(0.7);
+    opacity: 0.85;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    position: absolute;
+}
+
+.containernav {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+.navbar ul li a {
+    color: #ffffff;
+}
+
+.navbar ul li a:hover {
+    color: #D6BCB5;
+}
+
+.dropdown-item {
+    color: black !important;
+}
+
+.containernav a img {
+    margin-left: 40px;
+}
+
+hr {
+    border: 2px solid #D6BCB5 !important;
+    margin-bottom: 0px;
+}
+
+.zain233 {
+    padding-top: 20px;
+    margin-top: 70px;
+    width: 1000px;
+    border-radius: 25px;
+    background-color: rgba(97, 160, 160, 0.95);
+    background: -webkit-linear-gradient(to right, rgba(132, 250, 176, 0.5), rgba(143, 211, 244, 0.5));
+    background: linear-gradient(to left, rgba(132, 250, 176, 0.5), rgba(143, 211, 244, 0.5));
+}
+
+.zain333 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.sirdard {
+    border: 1px solid black;
+}
+
+h1 {
+    color: white !important;
+    font-family: Cormorant Garamond;
+    text-transform: uppercase;
+    font-size: 60px !important;
+}
+
+h5 {
+    color: white !important;
+    font-family: playfair display;
+    text-transform: capitalize;
+    font-weight: bolder;
+    font-size: 15px !important;
+}
+
+.divider:after,
+.divider:before {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: #eee;
+}
+
+h4 {
+    font-family: Cormorant Garamond;
+    text-transform: uppercase;
+    color: white !important;
+    font-weight: bolder !important;
+}
+
+.zain123 {
+    width: 300px;
+}
+
+.zainu {
+    margin-left: 10px;
+}
+
+.fas {
+    margin-left: 10px;
+}
+
+.zain09 {
+    margin-left: 20px;
+}
+
+.btnn {
+    justify-content: center;
+    display: flex;
+}

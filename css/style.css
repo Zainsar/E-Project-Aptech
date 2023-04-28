@@ -1,0 +1,495 @@
+.main {
+    padding-right: 0;
+    padding-left: 0;
+    margin-right: auto;
+    margin-left: auto
+}
+
+.container1 {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+video {
+    width: 100%;
+    height: 700px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    filter: brightness(0.6);
+    z-index: -1;
+}
+
+.containernav {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+.navbar ul li a {
+    color: #ffffff;
+}
+
+.navbar ul li a:hover {
+    color: #D6BCB5;
+}
+
+.dropdown-item {
+    color: black !important;
+}
+
+.containernav a img {
+    margin-left: 40px;
+}
+
+.column1 {
+    margin-top: 140px !important;
+}
+
+.vac-btn {
+    padding-left: 0px !important;
+    margin-left: auto !important;
+    text-transform: uppercase !important;
+    color: #ffffff !important;
+    margin-bottom: -25px;
+    padding: 0px;
+    font-family: Cormorant Garamond !important;
+    font-size: 48px !important;
+    font-weight: bold;
+}
+
+.headline {
+    border: 1px solid #ffffff;
+    margin-top: -4px;
+}
+
+.vac-btn2 {
+    padding-right: 0px;
+    padding-left: 0px !important;
+    margin-left: auto !important;
+    text-transform: uppercase !important;
+    padding: 0px;
+    color: #ffffff !important;
+    font-family: Cormorant Garamond !important;
+    font-size: 20px !important;
+    word-spacing: 2px;
+}
+
+.vac-para {
+    color: #ffffff;
+    font-family: Cormorant Garamond;
+    font-size: 15px;
+    text-transform: capitalize;
+    line-height: 22px;
+}
+
+
+#headbutton {
+    padding-left: 0px !important;
+    margin-left: auto !important;
+    margin-top: 10px;
+    width: 150px;
+    padding-top: 0;
+    padding-bottom: 0;
+    height: 40px;
+    border-radius: 20px;
+    border: 2px solid #C8DAE5;
+    color: #C8DAE5;
+}
+
+#headbutton:hover {
+    border: 2px solid #D6BCB5;
+}
+
+#headbutton a:hover {
+    color: #D6BCB5;
+    font-size: 23px;
+}
+
+#headbutton a {
+    text-decoration: none;
+    font-size: 20px;
+    color: #C8DAE5;
+    font-weight: bold;
+    font-family: Cormorant Garamond;
+    margin-left: 10px;
+}
+
+.fade-in {
+    animation: fadeIn 6s;
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+.f-con {
+    padding: 20px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    margin-top: 110px;
+}
+
+.f-row {
+    padding: 20px;
+}
+
+.f-col1 {
+    background-color: rgba(141, 108, 100, 0.5);
+    padding: 10px;
+
+}
+
+.f-col {
+    background-color: rgba(141, 108, 100, 0.5);
+    padding: 10px;
+}
+
+h5 {
+    color: #ffffff !important;
+    font-family: playfair display;
+    text-transform: capitalize;
+    font-weight: bolder;
+    font-size: 17px !important;
+}
+
+
+.custom-select {
+    margin-left: 40px;
+    width: 120px;
+}
+
+.col-button {
+    background-color: rgba(97, 160, 160, 0.65);
+}
+
+#f-btn {
+    margin-top: 10px;
+}
+
+#f-btn a {
+    text-decoration: none;
+    color: #ffffff;
+    margin-top: -35px;
+    font-size: 24px;
+    font-family: playfair display;
+}
+
+#f-btn a:hover {
+    color: black;
+}
+
+.m-col {
+    background-image: url(images/Untitled\ design.jpg);
+    background-size: cover;
+    margin-left: -30px;
+    z-index: -1;
+}
+
+.welcome {
+    border: 2px solid #8D6C64;
+    width: 200px;
+    margin-top: 100px;
+}
+
+.wel-para1 {
+    font-family: playfair display;
+    text-transform: capitalize;
+    font-size: 15px;
+    margin-bottom: -2px;
+}
+
+.wel-head {
+    font-family: playfair display !important;
+    color: black !important;
+    font-size: 50px !important;
+    text-transform: capitalize !important;
+}
+
+.wel-para {
+    font-family: playfair display;
+    color: black;
+    font-size: 13px;
+    text-transform: lowercase;
+    margin-left: 90px;
+    line-height: 20px;
+    margin-top: 5px;
+}
+
+#wel-btn {
+    background-color: #D6BCB5;
+    border-radius: 20px;
+    margin-left: 150px;
+    margin-top: 10px;
+    margin-bottom: 100px;
+}
+
+#wel-btn a {
+    text-decoration: none;
+    font-size: 17px;
+    color: black;
+    text-transform: capitalize;
+}
+
+#wel-btn:hover {
+    border: 3px solid #D6BCB5;
+}
+
+#img3 {
+    height: 350px;
+    width: 100%;
+    object-fit: cover;
+    position: absolute;
+    filter: brightness(0.7);
+    left: 0;
+    opacity: 0.75;
+    margin-top: 50px;
+    z-index: -1;
+}
+
+.m-col4 {
+    background-color: rgba(97, 160, 160, 0.85);
+    height: 450px;
+    padding: 20px 30px 30px 30px;
+    margin-bottom: 30px;
+    border: 4px solid #D6BCB5;
+}
+
+.features {
+    font-size: 30px !important;
+    text-transform: capitalize;
+    color: #ffffff !important;
+    font-family: Cormorant Garamond !important;
+}
+
+.fea-para {
+    color: #ffffff;
+    font-size: 17px;
+    font-family: playfair display;
+    text-transform: capitalize;
+}
+
+.fa-solid {
+    color: #ffffff;
+    margin-top: 25px;
+    margin-right: 20px;
+}
+
+.beaches {
+    margin-top: 30px;
+    width: 150px;
+    border: 2px solid #8D6C64;
+}
+
+.m-row4 {
+    margin-top: 30px !important;
+    margin-bottom: 30px !important;
+}
+
+.beach-para {
+    font-family: playfair display;
+    font-size: 15px;
+    text-transform: capitalize;
+    margin-top: -3px;
+    margin-bottom: -5px !important;
+}
+
+#beach-btn {
+    border-radius: 20px;
+    width: 140px;
+    margin-bottom: 30px;
+    border: 1px solid #D6BCB5;
+}
+
+#beach-btn a {
+    color: black;
+    font-size: 15px;
+    text-decoration: none;
+    font-family: playfair display;
+}
+
+#beach-btn:hover {
+    border: 2px solid #D6BCB5;
+}
+
+#beach-btn a:hover {
+    color: #D6BCB5;
+}
+
+.card1 {
+    padding-left: 0px;
+    margin-top: 10px !important;
+    margin-bottom: 50px !important;
+}
+
+.card2 {
+    padding-left: 0px;
+    margin-top: 10px !important;
+    margin-bottom: 50px !important;
+}
+
+.card3 {
+    padding-left: 0px;
+    margin-bottom: 50px !important;
+    margin-top: 10px !important;
+}
+
+#bali {
+    background-size: cover;
+    height: 250px;
+    opacity: 0.95;
+}
+
+#bali:hover {
+    opacity: 0.5;
+}
+
+#ora {
+    background-size: cover;
+    height: 250px;
+    opacity: 0.95;
+}
+
+#ora:hover {
+    opacity: 0.5;
+}
+
+#navagio {
+    background-size: cover;
+    height: 250px;
+    opacity: 0.95;
+}
+
+#navagio:hover {
+    opacity: 0.5;
+}
+
+.fea-para1 {
+    color: #ffffff;
+    font-size: 15px;
+    text-transform: lowercase;
+    font-family: playfair display;
+}
+
+.people-hr {
+    width: 120px;
+    border: 2px solid #D6BCB5;
+}
+
+.icon {
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: #D6BCB5;
+    margin-bottom: 10px;
+
+}
+
+i {
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+#feat {
+    text-decoration: none;
+    font-family: playfair display;
+    text-transform: capitalize;
+    font-size: 30px !important;
+    color: #ffffff;
+}
+
+#feat:hover {
+    color: #D6BCB5;
+}
+
+.footer {
+    margin-top: 30px;
+    background-color: rgba(97, 160, 160, 0.95);
+    width: 100%;
+    object-fit: cover;
+    position: absolute;
+    left: 0;
+}
+
+.tz34 h4 {
+    margin-top: 20px;
+    color: #ffffff !important;
+    font-family: Cormorant Garamond;
+    text-transform: capitalize;
+    font-size: 23px !important;
+}
+
+.vac-para1 {
+    color: #ffffff;
+    font-family: Cormorant Garamond;
+    font-size: 19px;
+    text-transform: capitalize;
+    line-height: 22px;
+}
+
+
+.quicklink p a {
+    text-decoration: none;
+}
+
+.quicklink p {
+    font-size: 20px;
+}
+
+.quicklink {
+    font-family: Cormorant Garamond;
+    color: #ffffff;
+}
+
+.copy {
+    color: #ffffff;
+}
+
+.copy a {
+    color: #ffffff;
+}
+
+.copy a:hover {
+    color: #D6BCB5;
+}
+
+.ticker-wrap {
+    font-family: Cormorant Garamond;
+    overflow: hidden;
+    position: relative;
+    /* background-color: rgba(214, 188, 181, 0.75); */
+    color: #ffffff;
+    background: transparent;
+    height: 60px;
+}
+
+.ticker-wrap .ticker-move {
+    width: 770px;
+    position: absolute;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    animation: ticker-scroll 10s linear infinite;
+}
+
+.ticker-wrap .ticker-move li {
+    display: inline-block;
+    padding: 0 20px;
+    font-size: 20px;
+}
+
+@keyframes ticker-scroll {
+    0% {
+        transform: translateX(150%);
+    }
+
+    100% {
+        transform: translateX(-100%);
+    }
+}

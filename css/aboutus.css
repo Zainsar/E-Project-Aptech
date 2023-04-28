@@ -1,0 +1,262 @@
+.main {
+    padding-right: 0;
+    padding-left: 0;
+    margin-right: auto;
+    margin-left: auto
+}
+
+.cont-1 {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+#img-1 {
+    height: 400px;
+    object-fit: cover;
+    width: 100%;
+    filter: brightness(0.7);
+    opacity: 0.85;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    position: absolute;
+}
+
+.containernav {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+.navbar ul li a {
+    color: #ffffff;
+}
+
+.navbar ul li a:hover {
+    color: #D6BCB5;
+}
+
+.dropdown-item {
+    color: black !important;
+}
+
+.containernav a img {
+    margin-left: 40px;
+}
+
+.contus-btn {
+    border: 2px solid #ffffff !important;
+    padding: 0px 20px 0px 20px !important;
+    color: #ffffff !important;
+    text-align: center !important;
+    font-family: Cormorant Garamond !important;
+    margin-top: 140px;
+    font-size: 50px !important;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+.para-1 {
+    text-transform: capitalize;
+    font-size: 35px;
+    color: #D6BCB5;
+    font-style: italic;
+    font-family: playfair display;
+    margin-bottom: 20px;
+}
+
+.cot {
+    margin-bottom: 40px !important;
+}
+
+.pp p {
+    font-size: 18px;
+    font-family: playfair display;
+}
+
+.tz {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.tz1 {
+    text-align: justify;
+    width: 300px;
+    color: #D6BCB5;
+
+}
+
+.hello {
+    margin-top: 50px;
+    background-color: #D6BCB5;
+}
+
+.row1 {
+    margin-top: 100px !important;
+}
+
+.small {
+    width: 50%;
+}
+
+.fa-user {
+
+    background-color: #ffffff;
+    padding: 50px;
+    margin-top: 35px;
+    border-radius: 100px;
+    margin-bottom: 15px;
+}
+
+#zain {
+    margin-top: 20px !important;
+    margin-bottom: 15px;
+}
+
+.creator {
+    font-family: playfair display;
+    font-size: 30px;
+    margin-bottom: 15px !important;
+}
+
+.rep {
+    font-family: playfair display;
+    font-size: 15px !important;
+}
+
+.create-btn {
+    border: 1px solid black !important;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+    font-size: 17px !important;
+    text-transform: capitalize !important;
+    font-family: playfair display !important;
+    border-radius: 20px;
+}
+
+.create-btn:hover,
+.zain-btn:hover {
+    color: #ffffff !important;
+}
+
+.zain-btn {
+    margin-top: 10px !important;
+    border: 1px solid black !important;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+    font-size: 17px !important;
+    text-transform: capitalize !important;
+    font-family: playfair display !important;
+    border-radius: 20px;
+}
+
+.hello {
+    margin-top: 70px;
+}
+
+h3 {
+    color: black;
+    font-family: playfair display;
+}
+
+#seemore {
+    color: rgba(97, 160, 160, 1);
+}
+
+#seemore:hover {
+    color: #D6BCB5;
+}
+
+hr {
+    border: 2px solid #D6BCB5 !important;
+}
+
+.z9 a {
+    text-decoration: none;
+}
+
+.footer {
+    margin-top: 30px;
+    background-color: rgba(97, 160, 160, 0.95);
+    width: 100%;
+    object-fit: cover;
+    position: absolute;
+    left: 0;
+}
+
+.tz34 h4 {
+    margin-top: 20px;
+    color: #ffffff !important;
+    font-family: Cormorant Garamond;
+    text-transform: capitalize;
+    font-size: 23px !important;
+}
+
+.vac-para1 {
+    color: #ffffff;
+    font-family: Cormorant Garamond;
+    font-size: 19px;
+    text-transform: capitalize;
+    line-height: 22px;
+}
+
+
+.quicklink p a {
+    text-decoration: none;
+}
+
+.quicklink p {
+    font-size: 20px;
+}
+
+.quicklink {
+    font-family: Cormorant Garamond;
+    color: #ffffff;
+}
+
+.copy {
+    color: #ffffff;
+}
+
+.copy a {
+    color: #ffffff;
+}
+
+.copy a:hover {
+    color: #D6BCB5;
+}
+
+.ticker-wrap {
+    font-family: Cormorant Garamond;
+    overflow: hidden;
+    position: relative;
+    /* background-color: rgba(214, 188, 181, 0.75); */
+    color: #ffffff;
+    background: transparent;
+    height: 60px;
+}
+
+.ticker-wrap .ticker-move {
+    width: 770px;
+    position: absolute;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    animation: ticker-scroll 10s linear infinite;
+}
+
+.ticker-wrap .ticker-move li {
+    display: inline-block;
+    padding: 0 20px;
+    font-size: 20px;
+}
+
+@keyframes ticker-scroll {
+    0% {
+        transform: translateX(150%);
+    }
+
+    100% {
+        transform: translateX(-100%);
+    }
+}
