@@ -45,9 +45,6 @@
     color: black !important;
 }
 
-.containernav a img {
-    margin-left: 40px;
-}
 
 hr {
     border: 2px solid #D6BCB5 !important;
@@ -55,9 +52,7 @@ hr {
 }
 
 .zain233 {
-    padding-top: 20px;
-    margin-top: 70px;
-    width: 1000px;
+    width: fit-content;
     border-radius: 25px;
     background-color: rgba(97, 160, 160, 0.95);
     background: -webkit-linear-gradient(to right, rgba(132, 250, 176, 0.5), rgba(143, 211, 244, 0.5));
@@ -65,8 +60,10 @@ hr {
 }
 
 .zain333 {
+    width: 300px;
+    margin: 0 auto 0 auto;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
     margin-top: 50px;
 }
@@ -106,7 +103,7 @@ h4 {
 }
 
 .zain123 {
-    width: 300px;
+    width: fit-content;
 }
 
 .zainu {
