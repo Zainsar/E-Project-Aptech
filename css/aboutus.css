@@ -5,6 +5,24 @@
     margin-left: auto
 }
 
+#feild {
+    margin-top: 30px !important;
+    text-align: center;
+}
+
+#searchbar {
+    border: 5px groove #C8DAE5;
+    border-radius: 20px;
+    width: max-content;
+    padding-left: 20px;
+}
+
+#btn {
+    width: max-content;
+    border: 5px groove #C8DAE5;
+    border-radius: 20px;
+}
+
 .cont-1 {
     padding-right: 0;
     padding-left: 0;

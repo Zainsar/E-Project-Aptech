@@ -1,0 +1,282 @@
+[
+    {
+        "coast": "North Beaches",
+        "area": "Sydney, Australia, in Manly.",
+        "title": "Manly Beach",
+        "images": "images/north-coast/Manly Beach 1.jpg",
+        "description": "Manly Beach is one of Australia's most famous surfing beaches. For a delightful day out, take a ferry."
+    },
+    {
+        "coast": "North Beaches",
+        "area": "Sydney, Australia, in Manly.",
+        "title": "Shelly Beach",
+        "images": "images/north-coast/shelly beach.jpeg",
+        "description": "Shelly Beach has showers and a cafe free electric barbeques, perfect for a family picnic"
+    },
+    {
+        "coast": "North Beaches",
+        "area": "Coron, Philippines.",
+        "title": "Malcapuya Island",
+        "images": "images/north-coast/coron.jpg",
+        "description": "Malcapuya Island is the a destination for those looking for soft sandy beaches all with a secluded appeal."
+    },
+    {
+        "coast": "North Beaches",
+        "area": "Canary Islands, Spain.",
+        "title": "Playa de La Francesa",
+        "images": "images/north-coast/spain.jpg",
+        "description": "Its is famous for its transparent torquoise waters with little waves. Relax in nature."
+    },
+    {
+        "coast": "North Beaches",
+        "area": "Milos, Greece.",
+        "title": "Kleftiko Beach",
+        "images": "images/north-coast/un-oretta-di-cammino.jpg",
+        "description": "Kleftiko is famous for its crystal-clear water, elaborate caves and imposing rock formations.."
+    },
+    {
+        "coast": "North Beaches",
+        "area": "Bahamas.",
+        "title": "Exuma, bell beach",
+        "images": "images/north-coast/bahamas.jpeg",
+        "description": "The Exuma Cays Land & Sea Park is the first of its kind in the world. Famous for its pristine beauty."
+    },
+    {
+        "coast": "North Beaches",
+        "area": "Anguilla, Caribbean.",
+        "title": "Shoal Bay,",
+        "images": "images/north-coast/shoal.jpg",
+        "description": "The sand here is extremely soft and the views are spectacular.It has several restaurants that serve good food."
+    },
+    {
+        "coast": "North Beaches",
+        "area": "Florida.",
+        "title": "South Beach,",
+        "images": "images/north-coast/south beach.jpg",
+        "description": "This famous oceanfront neighborhood is full of world-class shopping, historic architecture and hidden gems."
+    },
+    {
+        "coast": "North Beaches",
+        "area": "Thailand.",
+        "title": "Maya Bay,",
+        "images": "images/north-coast/maya.jpeg",
+        "description": "The coral bay with reefs surrounded by gigantic limestone cliffs. Made famous as the location of a 2000 film."
+    },
+    {
+        "coast": "North Beaches",
+        "area": "Panama.",
+        "title": "Isla Diablo, Guna Yala,",
+        "images": "images/north-coast/San-Blas.jpg",
+        "description": "this beach is the ideal destination if you like to explore aquatic life known for sand bars and coral reefs."
+    },
+    {
+        "coast": "South Beaches",
+        "area": "Maldives.",
+        "title": "Fulhadhoo, Goidhoo,",
+        "images": "images/south-coast/fulhadhoo.jpeg",
+        "description": "Historically, Fulhadhoo is famous as the island where a French navigator took refuge after a shipwreck in 1602"
+    },
+    {
+        "coast": "South Beaches",
+        "area": "Indonesia.",
+        "title": "Komodo National Park,",
+        "images": "images/south-coast/Pink-beach-in-Komodo-National-park.jpg",
+        "description": "The tropical resort of the Maldives feature a combination of natural attractions, superb accommodation."
+    },
+    {
+        "coast": "South Beaches",
+        "area": "La Digue.",
+        "title": "Anse Coco Beach, Seychelles,",
+        "images": "images/south-coast/anse-cocos.jpg",
+        "description": "The C shaped beach is known for incredible golden-white sand promenades andcrystal clear waters."
+    },
+    {
+        "coast": "South Beaches",
+        "area": "Australia.",
+        "title": "Heron Island Beach,",
+        "images": "images/south-coast/heron.jpeg",
+        "description": "Experience nature at its best on Heron Island,famous for itscoral reef and a sanctuary for variety of marine life."
+    },
+    {
+        "coast": "South Beaches",
+        "area": "Australia.",
+        "title": "Yallingup Beach,",
+        "images": "images/south-coast/yalingup.jpeg",
+        "description": "there's plenty to do, see and explore in Yallingup, the coastal town known for it's beautiful clear waters."
+    },
+    {
+        "coast": "South Beaches",
+        "area": "New Zealand.",
+        "title": "Koekohe Beach,",
+        "images": "images/south-coast/koekohe_beach.jpg",
+        "description": "The scenic, sandy beach at Koekohe is mostly famous for one thing the Moeraki Boulders,reads the entry"
+    },
+    {
+        "coast": "South Beaches",
+        "area": "Maldives.",
+        "title": "Halaveli Beach,",
+        "images": "images/south-coast/halaveli-.jpg",
+        "description": "luxury island hideaway on stilts in the Indian Ocean that puts paradise at your fingertips. Unforgettable dives."
+    },
+    {
+        "coast": "South Beaches",
+        "area": "Fiji.",
+        "title": "Tavarua,",
+        "images": "images/south-coast/tavarua-island-resort.jpg",
+        "description": "Tavarua began as a surf camp offering other amenities to those who love the ocean: diving, sailboarding."
+    },
+    {
+        "coast": "South Beaches",
+        "area": "Australia.",
+        "title": "Fraser Island Beach,",
+        "images": "images/south-coast/_fraser_island.jpg",
+        "description": "(Fraser Island) is the largest sand island in the world. It was inscribed on the World Heritage List."
+    },
+    {
+        "coast": "South Beaches",
+        "area": "New Zealand.",
+        "title": "Lorne Beach,",
+        "images": "images/south-coast/Lorne-Camping.jpg",
+        "description": "The scenic, sandy beach at Koekohe is mostly famous for one thing the Moeraki Boulders, reads the entry"
+    },
+    {
+        "coast": "East Beaches",
+        "area": "Massachusetts.",
+        "title": "Nantucket,",
+        "images": "images/east-coast/nantucket.jpg",
+        "description": "Madaket Beach, on the opposite end of the island, is another good choice especially for sunset-watching."
+    },
+    {
+        "coast": "East Beaches",
+        "area": "Island in New Shoreham, Rhode Island.",
+        "title": "Block Island,",
+        "images": "images/east-coast/Block-Island.jpg",
+        "description": "Block Island oozes New England charm. has clay cliffs and a view that reaches all the way to Montauk."
+    },
+    {
+        "coast": "East Beaches",
+        "area": "New York.",
+        "title": "East Hampton,",
+        "images": "images/east-coast/cedar-point-county-park.jpg",
+        "description": "Main Beach in East Hampton is known for its wide stretch of sand plus a snack bar, bathrooms, and lockers."
+    },
+    {
+        "coast": "East Beaches",
+        "area": "Florida.",
+        "title": "Palm Beach,",
+        "images": "images/east-coast/palm-beach.jpg",
+        "description": "It should come as no surprise that this one percenters' enclave has some of the best-groomed beaches on the East Coast."
+    },
+    {
+        "coast": "East Beaches",
+        "area": "Massachusetts.",
+        "title": "Martha's Vineyard,",
+        "images": "images/east-coast/winnetu-oceanside-resort.jpg",
+        "description": "Moshup Beach aka Aquinnah Beach is at the coastal island's western end. a national landmark"
+    },
+    {
+        "coast": "East Beaches",
+        "area": "New Jersey.",
+        "title": "Cape May,",
+        "images": "images/east-coast/new jersey.jpg",
+        "description": "This Jersey Shore getaway's beaches have been declared the best in the state, and its collection of things."
+    },
+    {
+        "coast": "East Beaches",
+        "area": "Georgia.",
+        "title": "Jekyll Island,",
+        "images": "images/east-coast/exterior-from-ocean.jpg",
+        "description": "This Jersey Shore getaway's beaches have been declared the best in the state, and its collection of things."
+    },
+    {
+        "coast": "East Beaches",
+        "area": "Georgia.",
+        "title": "Jekyll Island,",
+        "images": "images/east-coast/exterior-from-ocean.jpg",
+        "description": "This 5,700-acre barrier island off the coast of Georgia is famous for its nesting sea turtles and hermit crabs."
+    },
+    {
+        "coast": "East Beaches",
+        "area": "Massachusetts.",
+        "title": "Provincetown,",
+        "images": "images/east-coast/photo0jpg.jpg",
+        "description": "This charming town at the northernmost tip of Cape Cod is beloved for its beautiful beaches. 3"
+    },
+    {
+        "coast": "East Beaches",
+        "area": "South Carolina.",
+        "title": "Kiawah Island,",
+        "images": "images/east-coast/the-sanctuary-at-kiawah.jpg",
+        "description": "Just 15 miles south of Charleston with some of the best golfing in the world and beaches that stretch for 10 miles."
+    },
+    {
+        "coast": "West Beaches",
+        "area": "San Diego, CA.",
+        "title": "Coronado Beach,",
+        "images": "images/west-coast/coronado-municipal-beach.jpg",
+        "description": "This destination where the sand literally sparkles thanks to mineral mica and the nearly present sunshine"
+    },
+    {
+        "coast": "West Beaches",
+        "area": "California.",
+        "title": "Zuma Beach,",
+        "images": "images/west-coast/Zuma Beach California.jpg",
+        "description": "This beach has become popular for both swimming and body surfing; however. Zuma is also a great place."
+    },
+    {
+        "coast": "West Beaches",
+        "area": "Oregon.",
+        "title": "Cannon Beach,",
+        "images": "images/west-coast/Cannon Beach.jpg",
+        "description": "Cannon Beach is a famous, picturesque small-town village by the sea."
+    },
+    {
+        "coast": "West Beaches",
+        "area": "California.",
+        "title": "Butterfly Beach,",
+        "images": "images/west-coast/Butterfly Beach California.jpg",
+        "description": "As the name suggests, Butterfly beach is the abode of numerous beautiful butterflies crabs and goldfishes."
+    },
+    {
+        "coast": "West Beaches",
+        "area": "Washington.",
+        "title": "Long Beach,",
+        "images": "images/west-coast/Long Beach Washington.jpg",
+        "description": "The Long Beach Peninsula is the longest contiguous beach in the U.S. at about 28 miles"
+    },
+    {
+        "coast": "West Beaches",
+        "area": ":Washington.",
+        "title": "Rialto beach,",
+        "images": "images/west-coast/Rialto Beach Washington.jpg",
+        "description": "Rialto Beach is one of the most popular beaches in Olympic, and one of the most accessible."
+    },
+    {
+        "coast": "West Beaches",
+        "area": "Oregon.",
+        "title": "Roads End State Recreational Site,",
+        "images": "images/west-coast/Roads End State Recreational Site.jpg",
+        "description": "Its miles of sandy beaches attract many beach goers looking for a classic beach experience."
+    },
+    {
+        "coast": "West Beaches",
+        "area": "Oregon.",
+        "title": "Rockaway Beach,",
+        "images": "images/west-coast/Rockaway Beach.webp",
+        "description": "Known as being one of the best places for kite flying Rockaway Beach also has tide pools teeming with sea life"
+    },
+    {
+        "coast": "West Beaches",
+        "area": "California.",
+        "title": "Redondo Beach,",
+        "images": "images/west-coast/Redondo Beach California.jpg",
+        "description": "Redondo Beach offers a range of water sports for kids and Seaside Lagoon."
+    },
+    {
+        "coast": "West Beaches",
+        "area": "California.",
+        "title": "Carmel Beach,",
+        "images": "images/west-coast/Carmel Beach California.jpg",
+        "description": "In gorgeous Carmel in Northern California, carmel beach is ideal for families—its well-maintained."
+    }
+]
