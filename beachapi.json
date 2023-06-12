@@ -51,7 +51,7 @@
     {
         "coast": "North Beaches",
         "area": "Florida.",
-        "title": "South Beach,",
+        "title": "Oceanfront Beach,",
         "images": "images/north-coast/south beach.jpg",
         "description": "This famous oceanfront neighborhood is full of world-class shopping, historic architecture and hidden gems."
     },
@@ -204,7 +204,7 @@
     },
     {
         "coast": "East Beaches",
-        "area": "South Carolina.",
+        "area": "Carolina.",
         "title": "Kiawah Island,",
         "images": "images/east-coast/the-sanctuary-at-kiawah.jpg",
         "description": "Just 15 miles south of Charleston with some of the best golfing in the world and beaches that stretch for 10 miles."
