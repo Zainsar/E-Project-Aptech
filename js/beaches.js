@@ -1,6 +1,6 @@
 (
     async function () {
-        await fetch("beachapi.json").then(response => response.json()).then(beachdata => {
+        await fetch("json/beachapi.json").then(response => response.json()).then(beachdata => {
             console.log(beachdata)
             let searchField = document.getElementById("searchbar")
             let btn = document.getElementById("btn")

@@ -15,7 +15,8 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css"
         integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <script src="beaches.js" defer></script>
+    <script src="./js/beaches.js" defer></script>
+    <script type="text/javascript" src="./js/footer.js" defer></script>
 </head>
 
 <body>
@@ -281,23 +282,6 @@
             <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
             <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
             <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-
-            <script type="text/javascript">
-
-                var currentDate = new Date().toDateString();
-                var currentTime = new Date().toLocaleTimeString();
-                var currentLocation = "North Nazimabad Branch";
-
-                $("#date").text(currentDate);
-                $("#time").text(currentTime);
-                $("#location").text(currentLocation);
-                setInterval(function () {
-                    currentDate = new Date().toDateString();
-                    currentTime = new Date().toLocaleTimeString();
-                    $("#date").text(currentDate);
-                    $("#time").text(currentTime);
-                }, 100);
-            </script>
         </section>
         <div class="text-center text-dark p-3" style="background-color: rgba(0, 0, 0, 0.2);">
             <p class="copy"> © 2023 Copyright:
